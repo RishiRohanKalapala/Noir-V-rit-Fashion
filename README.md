@@ -72,9 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-Your Name - [your-email@example.com]
+Your Name - arekatlasivacharan@gmail.com
 
-Project Link: [https://github.com/yourusername/noir-verite]
+Project Link: [https://github.com/arekatlasivacharan/noir-verite]
 ```
 
 This README provides:
